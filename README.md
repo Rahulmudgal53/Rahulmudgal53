@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahulmudgal53.
-- 👀 I’m interested in Webdevlopement.
-- 🌱 I’m currently learning java script and dsa.
-- 💞️ I’m looking to collaborate on ateam project.
+- 👀 I’m interested in Web devlopement.
+- 🌱 I’m currently learning dsa with Java.
+- 💞️ I’m looking to collaborate on a team project.
 - 📫 How to reach me on whatsApp 8595232442.
 
 <!---
