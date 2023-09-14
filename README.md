@@ -1,4 +1,4 @@
-<h1 align="center">Ram Ram Ji 👋, I'm Rahul Mudgal</h1>
+<h1 align="center">Ram Ram Ji 👋, Myself Rahul Mudgal</h1>
 <h3 align="center">A passionate frontend developer from "Bharat"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmudgal53&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmudgal53" /> </p>
