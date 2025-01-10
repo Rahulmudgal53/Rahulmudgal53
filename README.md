@@ -23,7 +23,7 @@
   <ul style="text-align: center; font-size: 1.1rem; color: #555; list-style-type: none; padding: 0;">
     <li>🛠️<strong>Global Contribution:</strong> Built the website for the <a href="https://www.global-investors-forum.com/" target="_blank" style="color: #3498DB;">Global Investor Forum</a>, showcasing technical expertise and innovation.</li>
     <li>💻<strong>Currently Learning:</strong> Exploring advanced <strong>MERN stack</strong> and enhancing my proficiency in <strong>ReactJs & GSAP Animations</strong></li>
-    <li>🏆<strong>Hackathon Experience:</strong><br>  <strong>Smart India Hackathon 2022</strong> |  <strong>Flipkart Grid 5.0</strong> |  <strong>All India GFG Hackathon</strong> (in collaboration with Google Cloud & AMD)</li>
+    <li>🏆<strong>Hackathon Experience: </strong>  <strong>Smart India Hackathon 2022</strong> |  <strong>Flipkart Grid 5.0</strong> |  <strong>All India GFG Hackathon</strong> (in collaboration with Google Cloud & AMD)</li>
     <li>📚<strong>Hobbies:</strong> Problem-solving, blogging, and mentoring newbies in tech.</li>
     <li>💡<strong>Fun Fact:</strong> I love debugging as much as coding!</li>
   </ul>
