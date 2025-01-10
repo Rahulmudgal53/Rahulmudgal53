@@ -1,7 +1,7 @@
-<div style="font-family: Arial, sans-serif; color: #333;">
+<div style="font-family: 'Arial', sans-serif; color: #333; background-color: #f4f7fc; padding: 20px;">
 
-  <h1 align="center" style="font-size: 3rem; color: #4CAF50;">Namaste Ji 🙏, I'm Rahul Mudgal</h1>
-  <h3 align="center" style="font-size: 1.5rem; color: #2C3E50;">A passionate Frontend Developer from 🇮🇳 "Bharat" 🇮🇳</h3>
+  <h1 align="center" style="font-size: 3rem; color: #4CAF50; font-weight: bold; margin-bottom: 0;">Namaste Ji 🙏, I'm Rahul Mudgal</h1>
+  <h3 align="center" style="font-size: 1.5rem; color: #2C3E50; margin-top: 5px;">A passionate Frontend Developer from 🇮🇳 "Bharat" 🇮🇳</h3>
 
   <p align="center" style="margin-top: 1rem;">
     <img src="https://komarev.com/ghpvc/?username=rahulmudgal53&label=Profile%20Views&color=brightgreen&style=flat-square" alt="rahulmudgal53" />
@@ -15,12 +15,12 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB;">🛠️ **About Me**</h2>
-  <p style="text-align: center; font-size: 1.1rem; color: #555;">
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🛠️ **About Me**</h2>
+  <p style="text-align: center; font-size: 1.1rem; color: #555; max-width: 800px; margin: 0 auto; padding: 10px;">
     I am a MERN Stack Developer specializing in <strong>React.js</strong>, known for creating <strong>responsive UIs</strong> and integrating <strong>seamless API interactions</strong>. My journey has been fueled by curiosity and dedication, allowing me to explore exciting projects and hackathons.
   </p>
 
-  <ul style="text-align: center; font-size: 1.1rem; color: #555;">
+  <ul style="text-align: center; font-size: 1.1rem; color: #555; list-style-type: none; padding: 0;">
     <li><strong>Hackathon Experience:</strong><br> 🏆 <strong>Smart India Hackathon 2022</strong> | 🏆 <strong>Flipkart Grid 5.0</strong> | 🏆 <strong>All India GFG Hackathon</strong> (in collaboration with Google Cloud & AMD)</li>
     <li><strong>Currently Learning:</strong> Exploring advanced <strong>MERN stack</strong> and enhancing my proficiency in <strong>ReactJs & GSAP Animations</strong></li>
     <li><strong>Global Contribution:</strong> Built the website for the <a href="https://www.global-investors-forum.com/" target="_blank" style="color: #3498DB;">Global Investor Forum</a>, showcasing technical expertise and innovation.</li>
@@ -30,7 +30,7 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB;">🌟 **Skills & Tools**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🌟 **Skills & Tools**</h2>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -49,7 +49,7 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB;">🌍 **Connect With Me**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🌍 **Connect With Me**</h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/rahul-mudgal-837864201/" target="_blank">
       <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 10px;"/>
@@ -61,9 +61,9 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB;">📊 **GitHub Stats**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">📊 **GitHub Stats**</h2>
   <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmudgal53&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmudgal53&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 20px;" />
   </p>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmudgal53&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
@@ -71,21 +71,21 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB;">🔥 **My GitHub Streak**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🔥 **My GitHub Streak**</h2>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmudgal53&theme=radical" alt="GitHub Streak" />
   </p>
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB;">🚀 **Highlighted Projects**</h2>
-  <ul style="font-size: 1.1rem; color: #555; text-align: center;">
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🚀 **Highlighted Projects**</h2>
+  <ul style="font-size: 1.1rem; color: #555; text-align: center; list-style-type: none; padding: 0;">
     <li><strong><a href="https://github.com/rahulmudgal53/marketplace-app" style="color: #3498DB;">MERN Stack Marketplace App</a></strong>: A full-fledged marketplace with user registration, product listing, and cart functionality.</li>
     <li><strong><a href="https://github.com/rahulmudgal53/author-dashboard" style="color: #3498DB;">BoohStore App</a></strong>: Built using React, Vite, and Node.js to streamline author workflows.</li>
   </ul>
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <p align="center" style="font-size: 1.2rem; color: #555;">Feel free to connect, collaborate, or just say <strong>Namaste Ji</strong>! 😊</p>
+  <p align="center" style="font-size: 1.2rem; color: #555; margin-bottom: 0;">Feel free to connect, collaborate, or just say <strong>Namaste Ji</strong>! 😊</p>
 
 </div>
