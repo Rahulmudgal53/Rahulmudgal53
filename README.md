@@ -83,11 +83,8 @@ I am a MERN Stack Developer specializing in **React.js**, known for creating **r
 ### 🚀 **Highlighted Projects**
 1. **[MERN Stack Marketplace App](https://github.com/rahulmudgal53/marketplace-app)**:  
    A full-fledged marketplace with user registration, product listing, and cart functionality.
-   
-2. **[Hackathon Winning Solution](https://github.com/rahulmudgal53/hackathon-project)**:  
-   Solved real-world problems with innovative solutions during hackathons.
 
-3. **[Author Dashboard](https://github.com/rahulmudgal53/author-dashboard)**:  
+2. **[Author Dashboard](https://github.com/rahulmudgal53/author-dashboard)**:  
    Built using React, Vite, and Node.js to streamline author workflows.
 
 ---
