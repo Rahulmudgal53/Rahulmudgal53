@@ -22,8 +22,8 @@ I am a MERN Stack Developer specializing in **React.js**, known for creating **r
   - 🏆 **Flipkart Grid 5.0**  
   - 🏆 **All India GFG Hackathon** (in collaboration with Google Cloud & AMD)  
 
-- 🌱 **Currently Learning:** Exploring advanced **MERN stack** and enhancing my proficiency in **ReactJs & GSAP Animations**.
-- 🌍 **[Global Contribution](https://www.global-investors-forum.com/):** Built the website for the Global Investor Forum, showcasing technical expertise and innovation.
+- 💻 **Currently Learning:** Exploring advanced **MERN stack** and enhancing my proficiency in **ReactJs & GSAP Animations**.
+- 🛠️ **Global Contribution:** Built the website for the [Global Investor Forum](https://www.global-investors-forum.com/), showcasing technical expertise and innovation.
 - 📚 **Hobbies:** Problem-solving, blogging, and mentoring newbies in tech.  
 - 💡 **Fun Fact:** I love debugging as much as coding!  
 
