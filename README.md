@@ -27,6 +27,8 @@ I am a MERN Stack Developer specializing in **React.js**, known for creating **r
 - 📚 **Hobbies:** Problem-solving, blogging, and mentoring newbies in tech.  
 - 💡 **Fun Fact:** I love debugging as much as coding!  
 
+---
+
 ### 🌟 **Skills & Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
