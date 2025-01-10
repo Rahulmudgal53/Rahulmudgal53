@@ -50,7 +50,7 @@ I am a MERN Stack Developer specializing in **React.js**, known for creating **r
     <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/quality_codes" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
