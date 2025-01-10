@@ -15,7 +15,7 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🛠️ **About Me**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🛠️ About Me</h2>
   <p style="text-align: center; font-size: 1.1rem; color: #555; max-width: 800px; margin: 0 auto; padding: 10px;">
     I am a MERN Stack Developer specializing in <strong>React.js</strong>, known for creating <strong>responsive UIs</strong> and integrating <strong>seamless API interactions</strong>. My journey has been fueled by curiosity and dedication, allowing me to explore exciting projects and hackathons.
   </p>
@@ -30,7 +30,7 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🌟 **Skills & Tools**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🌟 Skills & Tools</h2>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -49,7 +49,7 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🌍 **Connect With Me**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🌍 Connect With Me</h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/rahul-mudgal-837864201/" target="_blank">
       <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 10px;"/>
@@ -61,7 +61,7 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">📊 **GitHub Stats**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">📊 GitHub Stats</h2>
   <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmudgal53&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 20px;" />
   </p>
@@ -71,14 +71,14 @@
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🔥 **My GitHub Streak**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🔥 My GitHub Streak</h2>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmudgal53&theme=radical" alt="GitHub Streak" />
   </p>
 
   <hr style="border-top: 1px solid #ccc; margin-top: 2rem;">
 
-  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🚀 **Highlighted Projects**</h2>
+  <h2 style="text-align: center; color: #3498DB; font-size: 2rem;">🚀 Highlighted Projects</h2>
   <ul style="font-size: 1.1rem; color: #555; text-align: center; list-style-type: none; padding: 0;">
     <li><strong><a href="https://github.com/rahulmudgal53/marketplace-app" style="color: #3498DB;">MERN Stack Marketplace App</a></strong>: A full-fledged marketplace with user registration, product listing, and cart functionality.</li>
     <li><strong><a href="https://github.com/rahulmudgal53/author-dashboard" style="color: #3498DB;">BoohStore App</a></strong>: Built using React, Vite, and Node.js to streamline author workflows.</li>
