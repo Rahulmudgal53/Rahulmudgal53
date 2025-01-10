@@ -47,7 +47,7 @@ I am a MERN Stack Developer specializing in **React.js**, known for creating **r
 ### 🌍 **Connect With Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/rahul-mudgal-837864201/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg](https://www.svgrepo.com/show/448234/linkedin.svg)" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/quality_codes" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram" height="30" width="40" />
